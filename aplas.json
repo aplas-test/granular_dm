@@ -18,7 +18,28 @@
       "end_of_life": "8/9/18",
       "months_to_renew_support": "24",
       "sme_email": "Karil.Goldston@memento.net.au",
-      "investment_number": "394"
+      "investment_number": "394",
+      "integrations": [
+        {
+          "id": "int-341",
+          "name": "INT-341",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+          "sourceApplicationId": "granular_dm",
+          "targetApplicationId": "social_innovation",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "14/4/15",
+          "sme_name": "Gabriel Van Hault",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gvanc@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "7/11/15"
+        }
+      ]
     }
   ]
 }
