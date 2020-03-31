@@ -1,20 +1,24 @@
 {
-  "id": "granular_dm",
-  "name": "Granular DM",
-  "categoryId": "communications",
-  "description": "Switchable maximized orchestration",
-  "investment_24m": "551",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "145",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "12",
-  "deployment_date": "7/12/15",
-  "end_of_maintenance": "6/4/17",
-  "department": "Product Management",
-  "status": "Decomissioned",
-  "end_of_life": "8/9/18",
-  "months_to_renew_support": "24",
-  "sme_email": "Karil.Goldston@memento.net.au",
-  "investment_number": "394"
+  "applications": [
+    {
+      "id": "granular_dm",
+      "name": "Granular DM",
+      "categoryId": "communications",
+      "description": "Switchable maximized orchestration",
+      "investment_24m": "551",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "145",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "12",
+      "deployment_date": "7/12/15",
+      "end_of_maintenance": "6/4/17",
+      "department": "Product Management",
+      "status": "Decomissioned",
+      "end_of_life": "8/9/18",
+      "months_to_renew_support": "24",
+      "sme_email": "Karil.Goldston@memento.net.au",
+      "investment_number": "394"
+    }
+  ]
 }
