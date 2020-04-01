@@ -25,7 +25,6 @@
           "name": "INT-341",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
-          "sourceApplicationId": "granular_dm",
           "targetApplicationId": "social_innovation",
           "logical_server": "A2A",
           "status_color": "#00FF00",
